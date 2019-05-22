@@ -1,0 +1,787 @@
+#EXTM3U
+#EXTINF:0,RAI 1 HD
+http://176.10.117.21:8081/aypitv/RAI1HDZUG/playlist.m3u8
+#EXTINF:0,RAI 2 HD
+http://176.10.117.21:8081/aypitv/RAI2HDZUG/playlist.m3u8
+#EXTINF:0,RSI_LA1 HD
+http://176.10.117.21:8081/aypitv/RSI_LA1Yenikart/playlist.m3u8
+#EXTINF:0,RSI_LAH D2
+http://176.10.117.21:8081/aypitv/RSI_LAHD2ZUG/playlist.m3u8
+#EXTINF:0,LA_1
+http://176.10.117.18:8081/aypitv/LA_1/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1,------ ITALY HD ------
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/12787
+#EXTINF:-1,Rai 1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17779
+#EXTINF:-1,Rai 2 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17778
+#EXTINF:-1,Rai 3 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17777
+#EXTINF:-1,RAI 4 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17772
+#EXTINF:-1,Rai 5 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17771
+#EXTINF:-1,Rai Gulp
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17704
+#EXTINF:-1,Rai Movie
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17770
+#EXTINF:-1,Rai News
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17755
+#EXTINF:-1,Rete 4 4K
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57278
+#EXTINF:-1,Rete 4 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17776
+#EXTINF:-1,Italia 1 4K
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57273
+#EXTINF:-1,Italia 1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17774
+#EXTINF:-1,Rai Premium HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17769
+#EXTINF:-1,RAI STORIA HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17761
+#EXTINF:-1,Rai yoyo
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17705
+#EXTINF:-1,Canale 5 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17775
+#EXTINF:-1,LA 7 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17773
+#EXTINF:-1,La 5 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17768
+#EXTINF:-1,Iris TV HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17767
+#EXTINF:-1,Top Crime HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17766
+#EXTINF:-1,Mediaset Extra HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17764
+#EXTINF:-1,Mediaset Italia 2 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17763
+#EXTINF:-1,Giallo HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17765
+#EXTINF:-1,Real Time
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17686
+#EXTINF:-1,Sky TG24 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17754
+#EXTINF:-1,Tele Sondrio News
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17757
+#EXTINF:-1,TG Norba 24
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17753
+#EXTINF:-1,Mediaset TGCome 24
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17756
+#EXTINF:-1,TV  2000
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17762
+#EXTINF:-1,Videolina
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17758
+#EXTINF:-1,Antenna Sicilia
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17759
+#EXTINF:-1,Alice HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17699
+#EXTINF:-1,Dove TV
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17687
+#EXTINF:-1,Canele 10
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57586
+#EXTINF:-1,Canele 8
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57585
+#EXTINF:-1,Classica HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57582
+#EXTINF:-1,CNBC Italia
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57581
+#EXTINF:-1,RTL 102.5
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57546
+#EXTINF:-1,Cielo HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17684
+#EXTINF:-1,Paramount Channel  SD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17674
+#EXTINF:-1,Gambero Rosso HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17698
+#EXTINF:-1,Cartonito HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17706
+#EXTINF:-1,Cartoon Network HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17709
+#EXTINF:-1,Disney XD HD..
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17710
+#EXTINF:-1,Super!
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17702
+#EXTINF:-1,Boing
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17707
+#EXTINF:-1,Dea Junior
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57575
+#EXTINF:-1,DEA KIDS
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57566
+#EXTINF:-1,Nick Junior.
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57553
+#EXTINF:-1,Nickelodeon.
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57552
+#EXTINF:-1,Disney Junior HD..
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17711
+#EXTINF:-1,Disney Channels HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57569
+#EXTINF:-1,Disney Channel 1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57570
+#EXTINF:-1,MANGA.
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57557
+#EXTINF:-1,Nove Deejay TV
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57551
+#EXTINF:-1,Dmax  SD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17685
+#EXTINF:-1,DMAX.
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57568
+#EXTINF:-1,DMAX   1
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57567
+#EXTINF:-1,FOCUS
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57564
+#EXTINF:-1,FRISBEE
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57563
+#EXTINF:-1,HISTORY .HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57560
+#EXTINF:-1,History 4K
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57561
+#EXTINF:-1,Rai Scuola HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57548
+#EXTINF:-1,Italian Fishing HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57559
+#EXTINF:-1,Caccia & Pesca
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33315
+#EXTINF:-1,Pesca E Caccia
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57550
+#EXTINF:-1,Animal Planet 4K
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17690
+#EXTINF:-1,Crime & Investigation HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17689
+#EXTINF:-1,CI Crime Ivestigtion  +1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57584
+#EXTINF:-1,CI Crime Ivestigtion 4K
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57583
+#EXTINF:-1,Nat  Geo  Wild HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17691
+#EXTINF:-1,Nat Geografic .HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57555
+#EXTINF:-1,National Geographic 4K
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17695
+#EXTINF:-1,Discovery Channel HD..
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17713
+#EXTINF:-1,Discovery Science  HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17694
+#EXTINF:-1,Discovery T&L HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17693
+#EXTINF:-1,Nat Geo People HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17692
+#EXTINF:-1,Nrj Hits HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17679
+#EXTINF:-1,Top Music TV
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17682
+#EXTINF:-1,Tsn Livigno
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17760
+#EXTINF:-1,Venere Tv 2
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17665
+#EXTINF:-1,Virgin Tv
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17677
+#EXTINF:-1,Visual Radio
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17680
+#EXTINF:-1,Marcopolo HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17697
+#EXTINF:-1,Mexicana
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17678
+#EXTINF:-1,Radio Monte Carlo TV
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17671
+#EXTINF:-1,Tele Musica
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17676
+#EXTINF:-1,105 TV
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17683
+#EXTINF:-1,Bridge Dance TV HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17673
+#EXTINF:-1,Fresbee HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17703
+#EXTINF:-1,Hit Music Channel
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17672
+#EXTINF:-1,K2
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17701
+#EXTINF:-1,M2o Tv
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17675
+#EXTINF:-1,Radio Capital TV
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17681
+#EXTINF:-1,Radio Italia Tv
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17668
+#EXTINF:-1,Radio Linea N1
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17669
+#EXTINF:-1,Radionorba Tv
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17667
+#EXTINF:-1,Musica Latina SD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17666
+#EXTINF:-1,Otto Fm Tv
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17670
+#EXTINF:-1,PEPPA PIG Channel
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17708
+#EXTINF:-1,POP TV
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17712
+#EXTINF:-1,FOX +1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57380
+#EXTINF:-1,FOX 4K.
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57379
+#EXTINF:-1,FOX LIFE HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57382
+#EXTINF:-1,FOX LIFE +1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57383
+#EXTINF:-1,FOX LIFE 4K
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57381
+#EXTINF:-1,FOX Comedy HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57360
+#EXTINF:-1,FOX Comedy 4K
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57364
+#EXTINF:-1,FOX Comedy +1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57362
+#EXTINF:-1,FOX Crime 4K
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57359
+#EXTINF:-1,Fox Crime +1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57340
+#EXTINF:-1,FOX Animation HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57385
+#EXTINF:-1,FOX Animation +1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57386
+#EXTINF:-1,FOX Animation 4K
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57384
+#EXTINF:-1,Comedy Central  1
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57580
+#EXTINF:-1,Sky Uno 1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33305
+#EXTINF:-1,Sku Uno +1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57453
+#EXTINF:-1,Sky Uno 1 HD.
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57526
+#EXTINF:-1,Sky Uno 4K
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57525
+#EXTINF:-1,Sky Atlantic HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33294
+#EXTINF:-1,Sky Atlantic 1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57544
+#EXTINF:-1,Sky Atlantic 2 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57543
+#EXTINF:-1,Sky Atlantic 4K
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57542
+#EXTINF:-1,Sky Arte HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33293
+#EXTINF:-1,Sky Arte 1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57545
+#EXTINF:-1,Sky Cinema 1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57541
+#EXTINF:-1,Sky Cinema +1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57440
+#EXTINF:-1,Sky Cinema  24 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33295
+#EXTINF:-1,Sky Cinema +24 4K
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57439
+#EXTINF:-1,Sky Cinema Classics HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33297
+#EXTINF:-1,Sky Cinema Classic 4K
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33296
+#EXTINF:-1,Sky Cinema Comedy HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33298
+#EXTINF:-1,Sky Cinema Comedy +1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57449
+#EXTINF:-1,Sky Cinema Comedy 4k
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33299
+#EXTINF:-1,Sky Cinema Cult HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33300
+#EXTINF:-1,Sky Cinema Cult +1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57448
+#EXTINF:-1,Sky Cinema Family HD.
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33301
+#EXTINF:-1,Sky Cinema Family +1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57443
+#EXTINF:-1,Sky Cinema Family 4K
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57444
+#EXTINF:-1,Sky Cinema Max HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33303
+#EXTINF:-1,Sky Cinema MAX  4K
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57447
+#EXTINF:-1,Sky Cinema MAX  +1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57446
+#EXTINF:-1,Sky Cinema Hits   HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33302
+#EXTINF:-1,Sky Cinema HITS +1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57441
+#EXTINF:-1,Sky Cinema HITS 4K
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57442
+#EXTINF:-1,Sky Cinema Passion HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33304
+#EXTINF:-1,Sky Cinema Passion +1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57445
+#EXTINF:-1,Sky Cinema Suspense HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57450
+#EXTINF:-1,Sky Cinema Suspense 4k
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57452
+#EXTINF:-1,Sky Cinema Suspense +1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57451
+#EXTINF:-1,Sky Premium Cinema Crime HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57344
+#EXTINF:-1,Sky Premium Cinema Crime +24 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57347
+#EXTINF:-1,Premium Cinema Action HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17743
+#EXTINF:-1,Premium Cinema Action +24
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17742
+#EXTINF:-1,Premium Cinema HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17747
+#EXTINF:-1,Premium Cinema 2 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17745
+#EXTINF:-1,Premium Cinema  24
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17746
+#EXTINF:-1,Premium Cinema 2 + 24
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17744
+#EXTINF:-1,Premium Cinema Comedy HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17741
+#EXTINF:-1,Premium Cinema Emotion HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17740
+#EXTINF:-1,Premium Cinema Energy HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17739
+#EXTINF:-1,Premium Cinema Joi HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17738
+#EXTINF:-1,Premium Cinema Joi +24 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17737
+#EXTINF:-1,Premium Stories HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17736
+#EXTINF:-1,Premium Studio Universal
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17688
+#EXTINF:-1,Dazn Sport 1
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33276
+#EXTINF:-1,Dazn Sport 2
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33277
+#EXTINF:-1,Dazn Sport 3
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33278
+#EXTINF:-1,Dazn Sport 4
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33279
+#EXTINF:-1,Dazn Sport 5
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33280
+#EXTINF:-1,Dazn Sport 6
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33281
+#EXTINF:-1,Dazn Sport 7
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33282
+#EXTINF:-1,Dazn Sport 8
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33283
+#EXTINF:-1,Dazn Sport 9
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33284
+#EXTINF:-1,Dazn Sport 10
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33314
+#EXTINF:-1,Dazn Sport 11
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57579
+#EXTINF:-1,Dazn Sport 12
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57578
+#EXTINF:-1,Dazn Sport 13
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57577
+#EXTINF:-1,Dazn Sport 14
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57576
+#EXTINF:-1,Vetrina Dazn Sport
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57522
+#EXTINF:-1,Sky Sport Seria A HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33312
+#EXTINF:-1,Sky Sport Arena HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33306
+#EXTINF:-1,Sky Sport Arena 4k
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57531
+#EXTINF:-1,Sky Sport Football HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33308
+#EXTINF:-1,Sky Sport Football 4k
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57530
+#EXTINF:-1,Sky Sport Golf HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33309
+#EXTINF:-1,Sky Sport NBA HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33311
+#EXTINF:-1,Sky Sport NBA 4k
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57528
+#EXTINF:-1,Sky Formula One  HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57538
+#EXTINF:-1,Sky Formula One 1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57540
+#EXTINF:-1,Automoto TV
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57588
+#EXTINF:-1,Bike channel HD.
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57587
+#EXTINF:-1,Lazio Channel HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57558
+#EXTINF:-1,Sky Moto GP  1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57537
+#EXTINF:-1,Sky Sport F1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33307
+#EXTINF:-1,Sky Sport Mix HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57529
+#EXTINF:-1,SUPERTENNIS
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57524
+#EXTINF:-1,Sky Sport MotoGP HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33310
+#EXTINF:-1,Rai Sport  4K
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57279
+#EXTINF:-1,Rai Sport  HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57547
+#EXTINF:-1,Sport Italia HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17722
+#EXTINF:-1,EUROSPORT 1 .HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57565
+#EXTINF:-1,Roma Channel HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17724
+#EXTINF:-1,Inter Channel
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17725
+#EXTINF:-1,Torino Channel
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57523
+#EXTINF:-1,Juventus TV
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17726
+#EXTINF:-1,Sky sport 24 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17734
+#EXTINF:-1,Sky Sport 24 4K
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/57532
+#EXTINF:-1,Super Calcio HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17731
+#EXTINF:-1,Sky Calcio 1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17730
+#EXTINF:-1,Sky Calcio 2 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/17729
+#EXTINF:-1,Sky Calcio 3 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33286
+#EXTINF:-1,Sky Calcio 4 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33287
+#EXTINF:-1,Sky Calcio 5 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33288
+#EXTINF:-1,Sky Calcio 6 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33289
+#EXTINF:-1,Sky Calcio 7 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33290
+#EXTINF:-1,Sky Calcio 8 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33291
+#EXTINF:-1,Sky Calcio 9 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/33292
+#EXTINF:-1,Sky Primafila 1 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/19211
+#EXTINF:-1,Sky Primafila 2 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/19210
+#EXTINF:-1,Sky Primafila 3 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/19209
+#EXTINF:-1,Sky Primafila 4 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/19208
+#EXTINF:-1,Sky Primafila 5 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/19207
+#EXTINF:-1,Sky Primafila 6 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/19206
+#EXTINF:-1,Sky Primafila 7 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/19205
+#EXTINF:-1,Sky Primafila 8 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/19204
+#EXTINF:-1,Sky Primafila 9 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/19203
+#EXTINF:-1,Sky Primafila 10 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/19202
+#EXTINF:-1,Sky Primafila 11 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/19201
+#EXTINF:-1,Sky Primafila 12 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/19200
+#EXTINF:-1,Sky Primafila 13 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/19199
+#EXTINF:-1,Sky Primafila 14 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/19198
+#EXTINF:-1,Sky Primafila 15 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/19197
+#EXTINF:-1,Sky Primafila 16 HD
+http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/19196
+#EXTM3U
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbbd1b2412.png",Fox HD
+https://1.ip2stream.icu/live/fox_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc1f48d409.png",Fox Comedy HD
+https://1.ip2stream.icu/live/fox_comedy_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc1a0bf37b.png",Fox Crime HD
+https://1.ip2stream.icu/live/fox_crime_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bce3d78dac85.png",Fox Life HD HD
+https://1.ip2stream.icu/live/fox_life_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc57502b8c.png",Paramount Channel HD
+https://1.ip2stream.icu/live/paramount_channel_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc5a96e412.png",Premium Action HD
+https://1.ip2stream.icu/live/premium_action_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcc5a1835dc5.png",Premium Cinema Comedy HD
+https://1.ip2stream.icu/live/premium_cinema_comedy_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc65647492.png",Premium Cinema Emotion HD
+https://1.ip2stream.icu/live/premium_cinema_emotion_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc6910aca2.png",Premium Cinema Energy HD
+https://1.ip2stream.icu/live/premium_cinema_energy_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbc94b1e56.png",Premium Cinema HD HD
+https://1.ip2stream.icu/live/premium_cinema_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc72b103c0.png",Premium Joi HD
+https://1.ip2stream.icu/live/premium_joi/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc8458430a.png",Premium Studio Universal HD
+https://1.ip2stream.icu/live/studio_universal/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5a9a3bb421c3e.png",Rai Movie HD
+https://1.ip2stream.icu/live/rai_movie/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcb3544da4.png",Sky Cinema +1 HD
+https://1.ip2stream.icu/live/sky_cinema_1_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcb05aa97f.png",Sky Cinema 24 HD
+https://1.ip2stream.icu/live/sky_cinema_24_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcb92464a1.png",Sky Cinema Classic HD
+https://1.ip2stream.icu/live/sky_cinema_classic_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcba07a64b.png",Sky Cinema Comedy HD
+https://1.ip2stream.icu/live/sky_cinema_comedy_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcb8523648.png",Sky Cinema Cult SD
+https://1.ip2stream.icu/live/sky_cinema_cult_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcb56df8f8.png",Sky Cinema Family HD
+https://1.ip2stream.icu/live/sky_cinema_family_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcb481b201.png",Sky Cinema Hits HD
+https://1.ip2stream.icu/live/sky_cinema_hits_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcb6d46677.png",Sky Cinema Max HD
+https://1.ip2stream.icu/live/sky_cinema_max_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5c025d5eb571e.png",Top Crime HD
+https://1.ip2stream.icu/live/top_crime_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcae394bf4cd.png",Eurosport 1 HD
+https://1.ip2stream.icu/live/eurosport_1_hd_enc/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcc82eab64ee.png",Eurosport 2 HD
+https://1.ip2stream.icu/live/eurosport_2_hd_enc/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcd79ddce4.png",Sky Sport Arena HD
+https://1.ip2stream.icu/live/sky_sport_arena_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcc13569f3.png",Sky Sport 24 SD
+https://1.ip2stream.icu/live/sky_sport_24_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbccaf398cd.png",Sky Sport Football HD
+https://1.ip2stream.icu/live/sky_sport_football_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcbd5628b8.png",Sky Sport F1 HD
+https://1.ip2stream.icu/live/sky_sport_f1_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcd5ebdf79.png",Sky Sport Serie A HD
+https://1.ip2stream.icu/live/skspseriea/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbccc1aadcd.png",Sky Sport MotoGP HD
+https://1.ip2stream.icu/live/sky_sport_motogp_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcd454f9c4.png",Sky Sport NBA HD
+https://1.ip2stream.icu/live/sky_sport_nba_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcd52a7367.png",Sky Sport Uno HD
+https://1.ip2stream.icu/live/sky_sport_uno_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bccb1c294a87.png",Sky Calcio 1 HD
+https://1.ip2stream.icu/live/skcl1/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bccb1a07027f.png",Sky Calcio 2 HD
+https://1.ip2stream.icu/live/skycl2/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bccb2140b5ce.png",Sky Calcio 3 HD
+https://1.ip2stream.icu/live/skcl3/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bccb245170ff.png",Sky Calcio 4 HD
+https://1.ip2stream.icu/live/skcl4/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bccb2a8c9bf9.png",Sky Calcio 5 HD
+https://1.ip2stream.icu/live/skcl5/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bccb2e988e86.png",Sky Calcio 6 HD
+https://1.ip2stream.icu/live/skcl6/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bccb339b41a3.png",Sky Calcio 7 HD
+https://1.ip2stream.icu/live/skcl7/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbea7b8ddc.png",SuperTennis HD
+https://1.ip2stream.icu/live/supertennis/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bce1c43031f7.png",DAZN Sport 1 HD
+https://1.ip2stream.icu/live/dazn_1/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bce1ccb50820.png",DAZN Sport 2 HD
+https://1.ip2stream.icu/live/dazn_2/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bce1d8b8c217.png",DAZN Sport 3 HD
+https://1.ip2stream.icu/live/dazn_3/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bce1dbcdfdac.png",DAZN Sport 4 HD
+https://1.ip2stream.icu/live/dazn_4/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bce1ea710c70.png",DAZN Sport 5 HD
+https://1.ip2stream.icu/live/dazn_5/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bce1eb6e344d.png",DAZN Sport 7 HD
+https://1.ip2stream.icu/live/dazn_7/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bce1ebd887d7.png",DAZN Sport 8 HD
+https://1.ip2stream.icu/live/dazn_8/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bce1ec4c13e7.png",DAZN Sport 9 HD
+https://1.ip2stream.icu/live/dazn_9/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbf208967a.png",Bike Channel HD
+https://1.ip2stream.icu/live/bike_channel_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bccaeb032e8f.png",Rai Sport HD
+https://1.ip2stream.icu/live/rai_sport_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc2f5a13c6.png",Inter Channel HD
+https://1.ip2stream.icu/live/inter_channel/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc410b847a.png",Lazio Style Channel HD
+https://1.ip2stream.icu/live/lazio_channel/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc48f099cd.png",Milan Channel HD
+https://1.ip2stream.icu/live/milan_channel/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentari HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bd219de1c8f6.png",Animal Planet HD
+https://1.ip2stream.icu/live/animal_planet_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentari HD" tvg-logo="https://skystreaming.io/files/Channels/image/5b265a0f0aa3b.png",Discovery Channel HD
+https://1.ip2stream.icu/live/discovery_channel_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentari HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc095e7838.png",Discovery Science HD
+https://1.ip2stream.icu/live/discovery_science_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentari HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc170bf09b.png",Focus HD
+https://1.ip2stream.icu/live/focus_mediaset_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentari HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc2b1cd38c.png",History HD
+https://1.ip2stream.icu/live/history_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentari HD" tvg-logo="https://skystreaming.io/files/Channels/image/5a9a428966fc4.png",Marcopolo SD
+https://1.ip2stream.icu/live/marcopolo_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentari HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbc47da09f.png",Nat Geo People HD
+https://1.ip2stream.icu/live/natgeo_people_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentari HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbc67a0cb3.png",Nat Geo Wild HD
+https://1.ip2stream.icu/live/natgeo_wild_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentari HD" tvg-logo="https://skystreaming.io/files/Channels/image/5b265a31dd767.png",National Geographic HD
+https://1.ip2stream.icu/live/national_geographic_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentari HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc7bc758ce.png",Premium Discovery Investigation HD
+https://1.ip2stream.icu/live/crime_investigation_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentari HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bd0ccf564954.png",Rai Storia HD
+https://1.ip2stream.icu/live/rai_storia_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbb65341e7.png",20 Mediaset HD
+https://1.ip2stream.icu/live/20_mediaset_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbec59092d.png",Alice HD
+https://1.ip2stream.icu/live/alice_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcdf24d728.png",Auto Moto TV HD
+https://1.ip2stream.icu/live/auto_moto_tv_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbb826f372.png",Caccia e Pesca HD
+https://1.ip2stream.icu/live/caccia_e_pesca_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbf8cf135e.png",Canale 5 HD
+https://1.ip2stream.icu/live/canale_5_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc0319fe5e.png",Cielo HD
+https://1.ip2stream.icu/live/cielo_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc9d7a4c28.png",Discovery Travel e Living HD
+https://1.ip2stream.icu/live/travel_and_living_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bd0bfddb83ae.png",Fox Animation HD
+https://1.ip2stream.icu/live/fox_animation_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc27f2163f.png",Gambero Rosso HD
+https://1.ip2stream.icu/live/gambero_rosso_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc290e476b.png",Giallo HD
+https://1.ip2stream.icu/live/giallo_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5a9a3cecd4b6c.png",Iris SD
+https://1.ip2stream.icu/live/iris_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbc095338d.png",Italia 1 HD
+https://1.ip2stream.icu/live/italia_1_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc3b433be4.png",La7 HD
+https://1.ip2stream.icu/live/la_7_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5a9a426478c09.png",Mediaset Extra HD
+https://1.ip2stream.icu/live/mediaset_extra_hd_enc/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc468dabf4.png",Mediaset Italia 2 HD
+https://1.ip2stream.icu/live/mediaset_italia_2_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc7d59c651.png",Premium Stories HD
+https://1.ip2stream.icu/live/premium_stories_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc85d716d7.png",Real Time HD
+https://1.ip2stream.icu/live/real_time_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbe231854a.png",Rete 4 HD
+https://1.ip2stream.icu/live/rete_4_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcc59d49e75b.png",RSI La 1 HD
+https://1.ip2stream.icu/live/rsi_la_1_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcc59df9f24a.png",RSI La 2 HD
+https://1.ip2stream.icu/live/rsi_la_2_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc88105a91.png",Sky Arte HD
+https://1.ip2stream.icu/live/sky_arte_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbe90e41df.png",Sky Uno HD
+https://1.ip2stream.icu/live/sky_uno_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Bambini HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbce59e5ba6.png",Cartoonito HD
+https://1.ip2stream.icu/live/cartoonito_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Bambini HD" tvg-logo="https://skystreaming.io/files/Channels/image/5c0255bfe88bd.png",Dea Junior HD
+https://1.ip2stream.icu/live/dea_junior_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Bambini HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc0bb49878.png",Disney Channel HD
+https://1.ip2stream.icu/live/disney_channel_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Bambini HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc0e0e87e1.png",Disney Junior HD
+https://1.ip2stream.icu/live/disney_junior_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Bambini HD" tvg-logo="https://skystreaming.io/files/Channels/image/5c025a4d1de2a.png",Disney XD HD
+https://1.ip2stream.icu/live/disney_xd_hd/playlist.m3u8l
+
+#EXTINF:-1 group-title="Bambini HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc257d3deb.png",Frisbee HD
+https://1.ip2stream.icu/live/frisbee_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Bambini HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc346a4711.png",K2 HD
+https://1.ip2stream.icu/live/k2_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Bambini HD" tvg-logo="https://skystreaming.io/files/Channels/image/5a128d982a7b0.png",Rai Gulp HD
+https://1.ip2stream.icu/live/rai_gulp_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Bambini HD" tvg-logo="https://skystreaming.io/files/Channels/image/5a12c49036770.png",Rai YoYo HD
+https://1.ip2stream.icu/live/rai_yoyo_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Bambini HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcf153f6e3.png",Super! HD
+https://1.ip2stream.icu/live/super_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Musica" tvg-logo="https://skystreaming.io/files/Channels/image/5c026b76368e6.png",M2O TV HD
+https://1.ip2stream.icu/live/m2o_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Musica" tvg-logo="https://skystreaming.io/files/Channels/image/5c026843161b5.png",Radio Italia HD
+https://1.ip2stream.icu/live/radio_italia_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://skystreaming.io/files/Channels/image/5a49080225025.png",Rai News 24 HD
+https://1.ip2stream.icu/live/rai_news_24_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://skystreaming.io/files/Channels/image/5a490ab5f09b8.png",Sky TG24 HD
+https://1.ip2stream.icu/live/sky_tg_24/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://skystreaming.io/files/Channels/image/5a9a4111a4635.png",TGcom24 HD
+https://1.ip2stream.icu/live/tg_com_24_hd/playlist.m3u8
+

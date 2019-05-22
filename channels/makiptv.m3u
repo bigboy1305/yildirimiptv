@@ -1,0 +1,279 @@
+#EXTM3U
+#EXTINF:-1,MAK-IPTV_TV1
+http://50.7.86.202/tv1/index.m3u8
+#EXTINF:-1,MAK-IPTV_TELMA
+http://50.7.86.202/telma/index.m3u8
+#EXTINF:-1,MAK-IPTV_SK4
+http://50.7.86.202/sk4/index.m3u8
+#EXTINF:-1,MAK-IPTV_SK3
+http://50.7.86.202/sk3/index.m3u8
+#EXTINF:-1,MAK-IPTV_SK2
+http://50.7.86.202/sk2/index.m3u8
+#EXTINF:-1,MAK-IPTV_SK1
+http://50.7.86.202/sk1/index.m3u8
+#EXTINF:-1,MAK-IPTV_SITEL
+http://50.7.86.202/sitel/index.m3u8
+#EXTINF:-1,MAK-IPTV_RTS2
+http://50.7.86.202/rts2/index.m3u8
+#EXTINF:-1,MAK-IPTV_RTS1
+http://50.7.86.202/rts1/index.m3u8
+#EXTINF:-1,MAK-IPTV_RTRS
+http://50.7.86.202/rtrs/index.m3u8
+#EXTINF:-1,MAK-IPTV_RTL2
+http://50.7.86.202/rtl2/index.m3u8
+#EXTINF:-1,MAK-IPTV_RTL
+http://50.7.86.202/rtl/index.m3u8
+#EXTINF:-1,MAK-IPTV_PRAVA-TV
+http://50.7.86.202/prvatv/index.m3u8
+#EXTINF:-1,MAK-IPTV_PRAVA-PLUS
+http://50.7.86.202/prvaplus/index.m3u8
+#EXTINF:-1,MAK-IPTV_PINK-ZABAVA
+http://50.7.86.202/pinkzabava/index.m3u8
+#EXTINF:-1,MAK-IPTV_PINK-THRILER
+http://50.7.86.202/pinkthriller/index.m3u8
+#EXTINF:-1,MAK-IPTV_PINK-SOAP
+http://50.7.86.202/pinksoap/index.m3u8
+#EXTINF:-1,MAK-IPTV_PINK-ROMANCE
+http://50.7.86.202/pinkromance/index.m3u8
+#EXTINF:-1,MAK-IPTV_PINK-PREMIUM
+http://50.7.86.202/pinkpremium/index.m3u8
+#EXTINF:-1,MAK-IPTV_PINK-PLUS
+http://50.7.86.202/pinkplus/index.m3u8
+#EXTINF:-1,MAK-IPTV_PINK-MOVIES
+http://50.7.86.202/pinkmovies/index.m3u8
+#EXTINF:-1,MAK-IPTV_PINK-FILM
+http://50.7.86.202/pinkfilm/index.m3u8
+#EXTINF:-1,MAK-IPTV_PINK-FAMILY
+http://50.7.86.202/pinkfamily/index.m3u8
+#EXTINF:-1,MAK-IPTV_PINK-EXTRA
+http://50.7.86.202/pinkextra/index.m3u8
+#EXTINF:-1,MAK-IPTV_PINK-COMEDY
+http://50.7.86.202/pinkcomedy/index.m3u8
+#EXTINF:-1,MAK-IPTV_PINK-BIH
+http://50.7.86.202/pinkbih/index.m3u8
+#EXTINF:-1,MAK-IPTV_PINK-ACTION
+http://50.7.86.202/pinkaction/index.m3u8
+#EXTINF:-1,MAK-IPTV_PINK2
+http://50.7.86.202/pink2/index.m3u8
+#EXTINF:-1,MAK-IPTV_O2
+http://50.7.86.202/O2/index.m3u8
+#EXTINF:-1,MAK-IPTV_OBN
+http://50.7.86.202/obn/index.m3u8
+#EXTINF:-1,MAK-IPTV_TV NOVA
+http://50.7.86.202/nova/index.m3u8
+#EXTINF:-1,MAK-IPTV_KANAL-5
+http://50.7.86.202/kanal5/index.m3u8
+#EXTINF:-1,MAK-IPTV_HRT3
+http://50.7.86.202/hrt3/index.m3u8
+#EXTINF:-1,MAK-IPTV_HRT2
+http://50.7.86.202/hrt2/index.m3u8
+#EXTINF:-1,MAK-IPTV_HRT1
+http://50.7.86.202/hrt1/index.m3u8
+#EXTINF:-1,MAK-IPTV_HAYAT-PLUS
+http://50.7.86.202/hayat_plus/index.m3u8
+#EXTINF:-1,MAK-IPTV_HAYAT
+http://50.7.86.202/hayat/index.m3u8
+#EXTINF:-1,MAK-IPTV_HAPPY
+http://50.7.86.202/happy/index.m3u8
+#EXTINF:-1,MAK-IPTV_GRAND-TV
+http://50.7.86.202/grandtv/index.m3u8
+#EXTINF:-1,MAK-IPTV_FTV
+http://50.7.86.202/ftv/index.m3u8
+#EXTINF:-1,MAK-IPTV_FOXLIFE
+http://50.7.86.202/foxlife/index.m3u8
+#EXTINF:-1,MAK-IPTV_FOXCRIME
+http://50.7.86.202/foxcrime/index.m3u8
+#EXTINF:-1,MAK-IPTV_FOX
+http://50.7.86.202/fox/index.m3u8
+#EXTINF:-1,MAK-IPTV_EIROSPORT 2
+http://50.7.86.202/eurosport2/index.m3u8
+#EXTINF:-1,MAK-IPTV_FACETV
+http://50.7.86.202/facetv/index.m3u8
+#EXTINF:-1,MAK-IPTV_DOMATV
+http://50.7.86.202/domatv/index.m3u8
+#EXTINF:-1,MAK-IPTV_BHT 1
+http://50.7.86.202/bht1/index.m3u8
+#EXTINF:-1,MAK-IPTV_BN
+http://50.7.86.202/bn/index.m3u8
+#EXTINF:-1,MAK-IPTV_ATV
+http://50.7.86.202/atv/index.m3u8
+#EXTINF:-1,MAK-IPTV_A1 Shqiptare
+http://178.132.6.97:8080/A1SHQIPTARE/tracks-v1a1/index.m3u8
+#EXTINF:-1,MAK-IPTV_A1 Cinema
+http://178.132.6.97:8080/A1CINEMA/tracks-v1a1/index.m3u8
+#EXTINF:-1,MAK-IPTV-A1 Kids
+http://178.132.6.97:8080/A1KIDS/tracks-v1a1/index.m3u8
+#EXTINF:-1,MAK-IPTV-A1 World
+http://178.132.6.97:8080/A1WORLD/index.m3u8
+#EXTINF:-1,MAK-IPTV-A1 Bosnia
+http://178.132.6.97:8080/A1BOSNIA/index.m3u8
+#EXTINF:-1,A1 MAK-IPTV-Espana
+http://178.132.6.97:8080/A1ESPANA/index.m3u8
+#EXTINF:-1,MAK-IPTV-A1 SERBIA
+http://178.132.6.97:8080/A1SERBIA/index.m3u8
+#EXTINF:0,MAK-IPTV-OTV Valentino
+http://178.132.6.97:8080/OTVValentino1/tracks-v1a1/index.m3u8
+#EXTINF:0,MAK-IPTV-Spin TV
+http://178.132.6.97:8080/SpinTV1/tracks-v1a1/index.m3u8
+
+#EXTINF:0,MAK-IPTV-Sky Folk Makedonija
+http://178.132.6.97:8080/SkyFolkMakedonija1/tracks-v1a1/index.m3u8
+#EXTINF:0,MAK-IPTV-TV Tetova
+http://178.132.6.97:8080/TVTetova1/tracks-v1a1/index.m3u8
+#EXTINF:0,MAK-IPTV-TV7 TUZLA
+http://178.132.6.97:8080/TV7TUZLA1/tracks-v1a1/index.m3u8
+#EXTINF:0,MAK-IPTV-USK
+http://178.132.6.97/USK/index.m3u8
+#EXTINF:0,MAK-IPTV-PLUS TV
+http://178.132.6.97:8080/PLUSTV1/tracks-v1a1/index.m3u8
+#EXTINF:0,MAK-IPTV-a1vikom
+http://178.132.6.97:8080/a1vikom1/tracks-v1a1/index.m3u8
+#EXTINF:0,MAK-IPTV-TVTK
+http://178.132.6.97:8080/TVTK1/tracks-v1a1/index.m3u8
+#EXTINF:0,MAK-IPTV-SMART TV TESANJ
+http://178.132.6.97:8080/bs:SMARTTVTESANJ1/tracks-v1a1/index.m3u8
+#EXTINF:0,MAK-IPTV-JazzeraAL
+http://178.132.6.97:/JazzeraAL1/tracks-v1a1/index.m3u8
+#EXTINF:0,MAK-IPTV-RTV Zenica
+http://178.132.6.97:8080/RTVZenica1/tracks-v1a1/index.m3u8
+#EXTM3U
+#EXTINF:-1,mak-iptv_1
+http://89.163.135.249:25461/osamire/upcidupci/35
+#EXTINF:-1,mak-iptv_2
+http://89.163.135.249:25461/osamire/upcidupci/36
+#EXTINF:-1,mak-iptv_3
+http://89.163.135.249:25461/osamire/upcidupci/38
+#EXTINF:-1,mak-iptv_6
+http://95.107.132.104/out/u/398_1.m3u8
+#EXTINF:-1,mak-iptv_8
+http://95.107.132.104/out/u/159_1.m3u8
+#EXTINF:-1,mak-iptv_9
+http://79.106.48.2/live/rtsh_1ott/playlist.m3u8
+#EXTINF:-1,mak-iptv_10
+http://79.106.48.2/live/rtsh_2ott_p3/playlist.m3u8
+#EXTINF:-1,mak-iptv_11
+http://79.106.48.2/live/rtsh_3ott_p3/playlist.m3u8
+#EXTINF:-1,mak-iptv_12
+http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8
+#EXTINF:-1,mak-iptv_13
+http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
+#EXTINF:-1,mak-iptv_14
+http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
+#EXTINF:-1,mak-iptv_15
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:-1,mak-iptv_16
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:-1,mak-iptv_17
+http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
+#EXTINF:-1,mak-iptv_18
+https://5a78c1f33fb75.streamlock.net:4443/SUNS6837RygCHJJBtWfF/smil:SMILNOAO_6837RygCHJJBtWfF.smil/manifest.m3u8
+#EXTINF:-1,mak-iptv_19
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1,mak-iptv_20
+http://95.107.132.104/out/u/38_1.m3u8
+#EXTINF:-1,mak-iptv_21
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+#EXTINF:-1,mak-iptv_22
+http://95.107.132.104/out/u/151_1.m3u8
+#EXTINF:-1,mak-iptv_23
+http://95.107.132.104/out/u/163_1.m3u8
+#EXTINF:-1,mak-iptv_24
+http://51.15.180.159:8081/play/hls/dielli/index.m3u8
+#EXTINF:-1,mak-iptv_25
+http://178.132.6.97:8080/tv2gostivar1/tracks-v1a1/index.m3u8
+#EXTINF:-1,mak-iptv_26
+https://59583158c050f.streamlock.net:443/7064/7064/playlist.m3u8
+#EXTINF:-1,SYRI BLUE HD
+http://live.syri.tv:6969/live/syriblue/hd/23.m3u8
+#EXTINF:-1,mak-iptv_29
+http://79.106.102.68/hls/rtvnje.m3u8
+#EXTINF:-1,mak-iptv_36
+http://95.107.132.104/out/u/159_1.m3u8
+#EXTINF:-1,mak-iptv_37
+http://89.163.135.249:8000/play/a00c/index.m3u8
+#EXTINF:-1,mak-iptv_38
+http://95.107.132.104/out/u/332_1.m3u8
+#EXTINF:-1,mak-iptv_39
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1,mak-iptv_40
+http://145.239.2.153:8081/oranews/live/playlist.m3u8
+#EXTINF:-1,mak-iptv_42
+http://95.107.132.104/out/u/332_1.m3u8
+#EXTINF:-1,mak-iptv_45
+http://79.106.48.2/live/rtsh_24_ott_p3/playlist.m3u8
+#EXTINF:-1,mak-iptv_47
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:-1,mak-iptv_48
+http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8
+#EXTINF:-1,mak-iptv_50
+http://95.107.132.104/out/u/155_1.m3u8
+#EXTINF:-1,mak-iptv_51
+http://95.107.132.104/out/u/44_1.m3u8
+#EXTINF:-1,mak-iptv_53
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1,mak-iptv_54
+http://178.132.6.97:8080/SYRIVISION1/tracks-v1a1/index.m3u8
+#EXTINF:-1,mak-iptv_55
+http://178.132.6.97:8080/tvlir1/tracks-v1a1/index.m3u8
+#EXTINF:-1,mak-iptv_57
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
+#EXTINF:-1,IT: RAI PREMIUM
+http://89.163.135.249:25461/live/osamire/upcidupci/210.m3u8
+#EXTINF:-1,IT: RAI MOVIE
+http://89.163.135.249:25461/live/osamire/upcidupci/209.m3u8
+#EXTINF:-1,mak-iptv_60
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+#EXTINF:-1,mak-iptv_61
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+#EXTINF:-1,mak-iptv_62
+http://ott-cdn.ucom.am/s29/index.m3u8
+#EXTINF:-1,mak-iptv_63
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+#EXTINF:-1,mak-iptv_64
+http://95.107.132.104/out/u/51_1.m3u8
+#EXTINF:-1,mak-iptv_65
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+#EXTINF:-1,mak-iptv_69
+http://95.107.132.104/out/u/123_1.m3u8
+#EXTINF:-1,mak-iptv_70
+http://95.107.132.104/out/u/115_1.m3u8
+#EXTINF:-1,mak-iptv_71
+http://95.107.132.104/out/u/115_1.m3u8
+#EXTINF:-1,mak-iptv_72
+http://95.107.132.104/out/u/127_1.m3u8
+#EXTINF:-1,AL: TV DUKAGJINI
+http://89.163.135.249:25461/live/osamire/upcidupci/34.m3u8
+#EXTINF:-1,AL: TV SHENJA
+http://89.163.135.249:25461/live/osamire/upcidupci/61.m3u8
+#EXTINF:-1,AL: TV DIELLI
+http://89.163.135.249:25461/live/osamire/upcidupci/59.m3u8
+#EXTINF:-1,AL: PEACE TV
+http://89.163.135.249:25461/live/osamire/upcidupci/164.m3u8
+#EXTINF:-1,AL: TV DIASPORA
+http://89.163.135.249:25461/live/osamire/upcidupci/153.m3u8
+#EXTINF:-1,mak-iptv_81
+http://89.163.135.249:25461/osamire/upcidupci/135
+#EXTINF:-1,AL: SHQIPTV FILM
+http://89.163.135.249:25461/live/osamire/upcidupci/150.m3u8
+#EXTINF:-1,AL: SHQIPTV HORRORR
+http://89.163.135.249:25461/live/osamire/upcidupci/142.m3u8
+#EXTINF:-1,AL: SHQIPTV HUMOR
+http://89.163.135.249:25461/live/osamire/upcidupci/143.m3u8
+#EXTINF:-1,AL; ALB ACTION
+http://89.163.135.249:25461/live/osamire/upcidupci/137.m3u8
+#EXTINF:-1,AL; SHQIPTV HINDI
+http://89.163.135.249:25461/live/osamire/upcidupci/146.m3u8
+#EXTINF:-1,mak-iptv_88
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1,mak-iptv_89
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1,mak-iptv_90
+http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
+#EXTINF:-1,mak-iptv_91
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+#EXTINF:-1,mak-iptv_92
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
+#EXTINF:-1,mak-iptv_93
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:-1,mak-iptv_94
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8

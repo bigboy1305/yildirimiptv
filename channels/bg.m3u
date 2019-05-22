@@ -1,0 +1,235 @@
+#EXTM3U
+#EXTINF:0,БНТ 1 | tvizio.bg
+http://umutiptv.cf/tvizio.bg/bnt1/canli.m3u8
+#EXTINF:0,БНТ 1 HD | tvizio.bg
+http://umutiptv.cf/tvizio.bg/bnt1hd/canli.m3u8
+#EXTINF:0,bTV | tvizio.bg
+http://umutiptv.cf/tvizio.bg/btv/canli.m3u8
+#EXTINF:0,bTV HD | tvizio.bg
+http://umutiptv.cf/tvizio.bg/btvhd/canli.m3u8
+#EXTINF:0,Канал 3 | tvizio.bg
+http://umutiptv.cf/tvizio.bg/kanal3/canli.m3u8
+#EXTINF:0,Европа | tvizio.bg
+http://umutiptv.cf/tvizio.bg/evropa/canli.m3u8
+#EXTINF:0,БНТ 3 | tvizio.bg
+http://umutiptv.cf/tvizio.bg/bnt3/canli.m3u8
+#EXTINF:0,Diema Family | tvizio.bg
+http://umutiptv.cf/tvizio.bg/diemafamily/canli.m3u8
+#EXTINF:0,TLC | tvizio.bg
+http://umutiptv.cf/tvizio.bg/tlc/canli.m3u8
+#EXTINF:0,24 Kitchen | tvizio.bg
+http://umutiptv.cf/tvizio.bg/24kitchen/canli.m3u8
+#EXTINF:0,Travel Channel | tvizio.bg
+http://umutiptv.cf/tvizio.bg/travel/canli.m3u8
+#EXTINF:0,Travel BG | tvizio.bg
+http://umutiptv.cf/tvizio.bg/travelbg/canli.m3u8
+#EXTINF:0,Viasat Nature | tvizio.bg
+http://umutiptv.cf/tvizio.bg/viasatnature/canli.m3u8
+#EXTINF:0,Box Music HD | tvizio.bg
+http://umutiptv.cf/tvizio.bg/box/canli.m3u8
+#EXTINF:0,The Voice | tvizio.bg
+http://umutiptv.cf/tvizio.bg/thevoice/canli.m3u8
+#EXTINF:0,Planeta HD | tvizio.bg
+http://umutiptv.cf/tvizio.bg/planeta/canli.m3u8
+#EXTINF:0,DM SAT | tvizio.bg
+http://umutiptv.cf/tvizio.bg/dmsat/canli.m3u8
+#EXTINF:0,Bulgaria On Air | tvizio.bg
+http://umutiptv.cf/tvizio.bg/bulgariaonair/canli.m3u8
+#EXTINF:0,Bloomberg TV Bulgaria | tvizio.bg
+http://umutiptv.cf/tvizio.bg/bloomberg/canli.m3u8
+
+#EXTM3U
+#EXTINF:-1,BN Music
+https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_350k.m3u8
+#EXTINF:-1,bit
+https://cdn1.mobiletv.bg/T5/bit_archive/bit_794613.m3u8
+#EXTINF:-1,Fishing and Hunting
+https://cdn1.mobiletv.bg/T5/fh/fh_794613_350k.m3u8
+#EXTINF:-1,disney junior
+https://cdn1.mobiletv.bg/T5/disney_junior/disney_junior_794613_350k.m3u8
+#EXTINF:-1,BTV cinema
+https://cdn1.mobiletv.bg/T8/btv_cinema/btv_c_794613_850k.m3u8
+#EXTINF:-1,TCL
+https://cdn1.mobiletv.bg/T8/tlc/tlc_794613_850k.m3u8
+#EXTINF:-1,TCL
+https://cdn1.mobiletv.bg/T8/tlc_archive/tlc_794613.m3u8
+#EXTINF:-1,Tv Vratsa
+https://cdn1.mobiletv.bg/T8/tv_vratsa/tv_vratsa_794613_850k.m3u8
+#EXTINF:-1,AMC
+https://cdn1.mobiletv.bg/T7/amc/amc_794613_850k.m3u8
+#EXTINF:-1,Eta
+https://cdn1.mobiletv.bg/T7/eta/eta_794613_850k.m3u8
+#EXTINF:-1,Bit
+https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+#EXTINF:-1,RTL
+https://cdn1.mobiletv.bg/T5/rtl_archive/rtl_794613.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850.m3u8
+#EXTINF:-1,Btv Comedy
+https://cdn1.mobiletv.bg/T5/btvcomedy/btvcomedy_794613_850k.m3u8
+#EXTINF:-1,Fox Life
+https://cdn1.mobiletv.bg/T3/foxlife/foxlife_794613_850k.m3u8
+#EXTINF:-1,Kinonova
+https://cdn1.mobiletv.bg/T3/kinonova/kinonova_794613_850k.m3u8
+#EXTINF:-1,Ring HD
+https://cdn1.mobiletv.bg/T3/ringbghd/ringbghd_794613_850k.m3u8
+#EXTINF:-1,The Voice
+https://cdn1.mobiletv.bg/T3/thevoice/thevoice_794613_850k.m3u8
+#EXTINF:-1,EUROSPORT 2
+https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
+#EXTINF:-1,AUTO MOTOR SPORT
+https://cdn1.mobiletv.bg/T9/ams/ams_794613_850k.m3u8
+#EXTINF:-1,Magic Tv
+https://cdn1.mobiletv.bg/T14/ATV/magic_tv/magic_tv_ATV987654321.m3u8
+#EXTINF:-1,Carton Network
+https://cdn1.mobiletv.bg/T14/ATV/carton_network/carton_network_ATV987654321.m3u8
+#EXTINF:-1,Novasport
+https://cdn1.mobiletv.bg/T14/ATV/novasport/novasport_ATV987654321.m3u8
+#EXTINF:-1,Box
+https://cdn1.mobiletv.bg/T14/ATV/boxtv/boxtv_ATV987654321.m3u8
+#EXTINF:-1,Duck
+https://cdn1.mobiletv.bg/T14/ATV/duck_tv/duck_tv_ATV987654321.m3u8
+#EXTINF:-1,Auto motor sport Bulgaria
+https://cdn1.mobiletv.bg/T9/ams_hd/ams_hd_794613_850k.m3u8
+#EXTINF:-1,BTK:   http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8
+
+#EXTINF:-1,BG DNES: http://80.72.95.40:8088
+
+#EXTINF:-1,DSTV: rtmp://79.98.109.134:1935/big/live 
+
+#EXTINF:-1,Cherno More TV: http://84.43.207.130:80/evropatv/evropatv.m3u8
+
+#EXTINF:-1,BTV CINEMA: http://84.43.207.130:80/btvcinema/btvcinema.m3u8
+
+#EXTINF:-1,Diema: http://84.43.207.130/diema/diema.m3u8
+
+#EXTINF:-1,BG: Europa TV: http://84.43.207.130/evropatv/evropatv.m3u8
+#EXTINF:-1,BG | 24Kitchen
+http://s1.platinumhostingtech.com:80/rose/rose/52116
+#EXTINF:-1,BG | Action  HD
+http://s1.platinumhostingtech.com:80/rose/rose/52112
+#EXTINF:-1,BG | AMC
+http://s1.platinumhostingtech.com:80/rose/rose/52150
+#EXTINF:-1,BG | AXN
+http://s1.platinumhostingtech.com:80/rose/rose/52114
+#EXTINF:-1,BG | Balkanika
+http://s1.platinumhostingtech.com:80/rose/rose/52149
+#EXTINF:-1,BG | BHT 1 HD
+http://s1.platinumhostingtech.com:80/rose/rose/52159
+#EXTINF:-1,BG | BHT2
+http://s1.platinumhostingtech.com:80/rose/rose/52158
+#EXTINF:-1,BG | BIT
+http://s1.platinumhostingtech.com:80/rose/rose/52148
+#EXTINF:-1,BG | BNT HD
+http://s1.platinumhostingtech.com:80/rose/rose/52157
+#EXTINF:-1,BG | BNT World
+http://s1.platinumhostingtech.com:80/rose/rose/52156
+#EXTINF:-1,BG | BTV Action HD
+http://s1.platinumhostingtech.com:80/rose/rose/52109
+#EXTINF:-1,BG | BTV Cinema
+http://s1.platinumhostingtech.com:80/rose/rose/52107
+#EXTINF:-1,BG | BTV Comedy
+http://s1.platinumhostingtech.com:80/rose/rose/52108
+#EXTINF:-1,BG | BTV HD
+http://s1.platinumhostingtech.com:80/rose/rose/52110
+#EXTINF:-1,BG | BTV Lady
+http://s1.platinumhostingtech.com:80/rose/rose/52106
+#EXTINF:-1,BG | Cinema
+http://s1.platinumhostingtech.com:80/rose/rose/52111
+#EXTINF:-1,BG | City TV
+http://s1.platinumhostingtech.com:80/rose/rose/52103
+#EXTINF:-1,BG | CN
+http://s1.platinumhostingtech.com:80/rose/rose/52147
+#EXTINF:-1,BG | Comedy
+http://s1.platinumhostingtech.com:80/rose/rose/52123
+#EXTINF:-1,BG | Destination BG
+http://s1.platinumhostingtech.com:80/rose/rose/52146
+#EXTINF:-1,BG | DIEMA
+http://s1.platinumhostingtech.com:80/rose/rose/52105
+#EXTINF:-1,BG | Diema Family
+http://s1.platinumhostingtech.com:80/rose/rose/52104
+#EXTINF:-1,BG | Diema Sport 2 HD
+http://s1.platinumhostingtech.com:80/rose/rose/52100
+#EXTINF:-1,BG | Diema Sport HD
+http://s1.platinumhostingtech.com:80/rose/rose/52101
+#EXTINF:-1,BG | Discovery Channel
+http://s1.platinumhostingtech.com:80/rose/rose/52145
+#EXTINF:-1,BG | Disney Channel
+http://s1.platinumhostingtech.com:80/rose/rose/52124
+#EXTINF:-1,BG | Disney Junior
+http://s1.platinumhostingtech.com:80/rose/rose/52144
+#EXTINF:-1,BG | EKIDS
+http://s1.platinumhostingtech.com:80/rose/rose/52143
+#EXTINF:-1,BG | Eurosport 1 HD
+http://s1.platinumhostingtech.com:80/rose/rose/52097
+#EXTINF:-1,BG | Eurosport 2
+http://s1.platinumhostingtech.com:80/rose/rose/52096
+#EXTINF:-1,BG | Evrokom
+http://s1.platinumhostingtech.com:80/rose/rose/52153
+#EXTINF:-1,BG | Fan TV
+http://s1.platinumhostingtech.com:80/rose/rose/52151
+#EXTINF:-1,BG | Fen Folk
+http://s1.platinumhostingtech.com:80/rose/rose/52131
+#EXTINF:-1,BG | Film
+http://s1.platinumhostingtech.com:80/rose/rose/52113
+#EXTINF:-1,BG | FILM PLUS
+http://s1.platinumhostingtech.com:80/rose/rose/52152
+#EXTINF:-1,BG | Fine Living
+http://s1.platinumhostingtech.com:80/rose/rose/52115
+#EXTINF:-1,BG | Folklor TV
+http://s1.platinumhostingtech.com:80/rose/rose/52142
+#EXTINF:-1,BG | Fox Crime
+http://s1.platinumhostingtech.com:80/rose/rose/52141
+#EXTINF:-1,BG | Fox HD
+http://s1.platinumhostingtech.com:80/rose/rose/52129
+#EXTINF:-1,BG | Fox Life
+http://s1.platinumhostingtech.com:80/rose/rose/52140
+#EXTINF:-1,BG | H2
+http://s1.platinumhostingtech.com:80/rose/rose/52118
+#EXTINF:-1,BG | HBO 2 HD
+http://s1.platinumhostingtech.com:80/rose/rose/52127
+#EXTINF:-1,BG | HBO 3 HD
+http://s1.platinumhostingtech.com:80/rose/rose/52126
+#EXTINF:-1,BG | HBO HD
+http://s1.platinumhostingtech.com:80/rose/rose/52128
+#EXTINF:-1,BG | History Channel HD
+http://s1.platinumhostingtech.com:80/rose/rose/52119
+#EXTINF:-1,BG | Hobby Lov
+http://s1.platinumhostingtech.com:80/rose/rose/52133
+#EXTINF:-1,BG | Hobby TV HD
+http://s1.platinumhostingtech.com:80/rose/rose/52134
+#EXTINF:-1,BG | ID Xtra HD
+http://s1.platinumhostingtech.com:80/rose/rose/52120
+#EXTINF:-1,BG | KANAL 3
+http://s1.platinumhostingtech.com:80/rose/rose/52137
+#EXTINF:-1,BG | Kino Nova
+http://s1.platinumhostingtech.com:80/rose/rose/52135
+#EXTINF:-1,BG | Magic TV
+http://s1.platinumhostingtech.com:80/rose/rose/52132
+#EXTINF:-1,BG | MTV Hits
+http://s1.platinumhostingtech.com:80/rose/rose/52139
+#EXTINF:-1,BG | Nat Geo HD
+http://s1.platinumhostingtech.com:80/rose/rose/52122
+#EXTINF:-1,BG | Nat Geo Wild HD
+http://s1.platinumhostingtech.com:80/rose/rose/52121
+#EXTINF:-1,BG | Nick JR
+http://s1.platinumhostingtech.com:80/rose/rose/52138
+#EXTINF:-1,BG | Nickelodeon
+http://s1.platinumhostingtech.com:80/rose/rose/52125
+#EXTINF:-1,BG | Nova
+http://s1.platinumhostingtech.com:80/rose/rose/52136
+#EXTINF:-1,BG | Nova Sport HD
+http://s1.platinumhostingtech.com:80/rose/rose/52099
+#EXTINF:-1,BG | Planeta
+http://s1.platinumhostingtech.com:80/rose/rose/52130
+#EXTINF:-1,BG | Planeta Folk
+http://s1.platinumhostingtech.com:80/rose/rose/52154
+#EXTINF:-1,BG | Skat TV
+http://s1.platinumhostingtech.com:80/rose/rose/52155
+#EXTINF:-1,BG | Sport Plus HD
+http://s1.platinumhostingtech.com:80/rose/rose/52098
+#EXTINF:-1,BG | TLC
+http://s1.platinumhostingtech.com:80/rose/rose/52117
+#EXTINF:-1,BG | TV Evropa
+http://s1.platinumhostingtech.com:80/rose/rose/52102
+ 

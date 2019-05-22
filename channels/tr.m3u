@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1,ATV HD
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:-1,ATV AVRUPA
+http://trkvz-m.ercdn.net/trkvz-temp/atvavrupam.m3u8
+#EXTINF:-1,A HABER HD
+http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
+#EXTINF:-1,A SPOR HD
+http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
+#EXTINF:-1,minikago
+http://trkvz-m.ercdn.net/minikago/minikago.m3u8
+#EXTINF:-1,minikago cocuk
+http://trkvz-m.ercdn.net/minikagococuk/minikagococuk.m3u8
+#EXTINF:-1,atv avrupa
+http://trkvz-m.ercdn.net/atvavrupa/atvavrupa.m3u8
+#EXTINF:-1,A ParaTV
+https://trkvz-m.ercdn.net/trkvz-temp/aparahdm.m3u8
+#EXTINF:-1,A2 TV
+https://trkvz-m.ercdn.net/trkvz-temp/a2tvm.m3u8
+#EXTINF:-1,ATV HD
+http://trkvz-m.ercdn.net/atvhd/atvhd.m3u8
+#EXTINF:-1,A2 HD
+http://trkvz-m.ercdn.net/a2tv/a2tv.m3u8
+#EXTINF:-1,A PARA HD
+http://trkvz-m.ercdn.net/aparahd/aparahd.m3u8
+#EXTINF:-1,A SPOR HD
+http://trkvz-m.ercdn.net/asporhd/asporhd.m3u8
+#EXTINF:-1,A HABER HD
+http://trkvz-m.ercdn.net/ahaberhd/ahaberhd.m3u8
+#EXTINF:-1,TURKISH | A News
+http://trkvz-m.ercdn.net/anewshd/anewshd.m3u8
+#EXTINF:-1,TRT OKUL
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
+#EXTINF:-1,TRT MÜZİK
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1,TRT ARAPÇA
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:-1,TRT HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
+#EXTINF:-1,TURKISH | TRT 1 HD
+https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1550_av-b.m3u8
+#EXTINF:-1,TURKISH | TRT COCUK HD
+https://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1250_av-b.m3u8
+#EXTINF:-1,TURKISH | TRT AVAZ HD
+https://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_1250_av-b.m3u8
+#EXTINF:-1,TURKISH | TRT KURDI HD
+https://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_1250_av-b.m3u8
+#EXTINF:-1,TURKISH | TRT SPOR (1 )
+https://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1050_av-b.m3u8
+#EXTINF:-1,TURKISH | TRT TURK HD
+https://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1250_av-b.m3u8
+#EXTINF:-1,TURKISH | TRT WORLD FHD
+https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1080p_av-b.m3u8
+#EXTINF:-1,TURKISH | TRT WORLD HD
+https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_720pp_av-p.m3u8
